@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on game QA
+- 🌱 I’m currently learning firebase
+- 📫 How to reach me: loveshonyj@gmail.com 
+
 <!--
 **loveshon/loveshon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
