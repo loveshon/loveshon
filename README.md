@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on game QA
+- ✨ Appium with python
+- ✨ Create programs and hardware to control iOS from Windows
 - 🌱 I’m currently learning firebase
 - 📫 How to reach me: loveshonyj@gmail.com 
 
