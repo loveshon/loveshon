@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - project
 
-https://www.notion.so/Project-Management-66655bee7a314690b122665ad3618aa5?pvs=4
+- https://www.notion.so/Project-Management-66655bee7a314690b122665ad3618aa5?pvs=4
